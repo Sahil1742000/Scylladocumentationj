@@ -1,12 +1,7 @@
-Sure! Here's the updated README with the **Configuration** and **Contributing** sections removed:
-
----
 
 # ScyllaDB Documentation
 
-Welcome to the official ScyllaDB documentation! This README will guide you through the essential steps for setting up, configuring, and using ScyllaDB, a high-performance NoSQL database designed for scale and speed. Whether you're getting started with ScyllaDB or managing a production environment, this guide will help you get the most out of your installation.
 
----
 
 ## Table of Contents
 
@@ -177,8 +172,7 @@ DELETE FROM users WHERE user_id = [some-uuid];
 
 ---
 
-This is a general guide to getting started with ScyllaDB. For more detailed instructions and advanced configurations, refer to the official [ScyllaDB documentation](https://scylladb.com/docs/).
 
 ---
 
-This version of the README now focuses solely on **installation via Docker**, **basic operations**, and **use cases**, omitting the configuration and contributing sections.
+
