@@ -1,6 +1,8 @@
 
 # ScyllaDB Documentation
-
+| Created     |    Version   | Author | Comment |
+|:------------------:|:-------------:|:-------------:|:-------------:|
+| 11-11-2024   | V1   | Sahil | Initial 
 
 
 ## Table of Contents
@@ -171,7 +173,10 @@ DELETE FROM users WHERE user_id = [some-uuid];
 - [Community Forum](https://community.scylladb.com)
 
 ---
-
+## Contacts
+|    NAME           |   Email Address                       |
+|:-----------------:|:-------------------------------------:|
+|Sahil  | sahil.pathania.snaatak@mygurukulam.co
 
 ---
 
