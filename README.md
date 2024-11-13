@@ -2,7 +2,7 @@
 # ScyllaDB Documentation
 | Created     |    Version   | Author | Comment |
 |:------------------:|:-------------:|:-------------:|:-------------:|
-| 11-11-2024   | V1   | Sahil | Initial 
+| 12-11-2024   | V1   | Sahil | Initial 
 
 
 ## Table of Contents
