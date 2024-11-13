@@ -1,5 +1,6 @@
 
 # ScyllaDB Detailed Documentation
+This document provides a comprehensive overview of ScyllaDB
 | Created     |    Version   | Author | Comment |
 |:------------------:|:-------------:|:-------------:|:-------------:|
 | 12-11-2024   | V1   | Sahil | Initial 
